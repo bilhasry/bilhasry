@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact **I love to go under the sea**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/indo.kid" target="blank">Twitter</a> | 
 <a href="https://indokid.my.id" target="blank">Website</a> |
 <a href="https://linkedin.com/in/bilhasry" target="blank">Linkedin</a>
