@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bilhasry Ramadhony</h1>
 <h3 align="center">A passionate developer from Indonesia that loves to code</h3>
+
 ---
+
 - 🌱 I’m currently learning **NodeJS, React and GO**
 
 - 💬 Ask me about **PHP, CSS3, HTML5, Javascript**
