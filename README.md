@@ -13,6 +13,5 @@
 <p align="left">
 <a href="https://twitter.com/indo.kid" target="blank">Twitter</a> | 
 <a href="https://indokid.my.id" target="blank">Website</a> |
-<a href="https://linkedin.com/in/bilhasry" target="blank">
-</a>
+<a href="https://linkedin.com/in/bilhasry" target="blank">Linkedin</a>
 </p>
